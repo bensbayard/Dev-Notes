@@ -8,4 +8,5 @@
 * `/opt/lampp/htdocs/` - The Apache DocumentRoot directory.
 
 ## Git SSH
-* git remote set-url origin git@github.com:bensbayard/Dev-Notes.git
+
+* git remote set-url origin git@github.com:<Username>/<Project>.git
